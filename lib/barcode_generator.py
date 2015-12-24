@@ -1,4 +1,4 @@
-from code128 import Code128
+from lib.code128 import Code128
 import svgwrite
 
 def generate_barcode(barcode):
